@@ -1,0 +1,104 @@
+:root {
+    /* --h-color: #ffc777; */
+    --h-color: #d8d5cf;
+    /* --h-font: "PingFang SC Heavy" */
+    --h-font: "微软雅黑"
+  }
+  
+  body {
+    /* 字体大小 */
+    --h1-size: 2em;
+    --h2-size: 1.8em;
+    --h3-size: 1.6em;
+    --h4-size: 1.4em;
+    --h5-size: 1.3em;
+    --h6-size: 1.25em;
+  }
+  .theme-dark {
+    --h1-color: var(--h-color);
+    --h2-color: var(--h-color);
+    --h3-color: var(--h-color);
+    --h4-color: var(--h-color);
+    --h5-color: var(--h-color);
+    --h6-color: var(--h-color);
+
+    --h1-font: var(--h-font);
+    --h3-weight: 600;
+    --h2-font: var(--h-font);
+    --h3-font: var(--h-font);
+    --h4-font: var(--h-font);
+  }
+  
+  /* Heading */
+  /* 阴影 */
+  /* .HyperMD-header::after,
+  .cm-header:not(.cm-formatting-header)::after,
+  h1::after,
+  h2::after,
+  h3::after,
+  h4::after,
+  h5::after,
+  h6::after {
+    text-shadow: 1px 2px 5px rgb(240, 244, 223);
+  }
+  .theme-dark .HyperMD-header::after,
+  .theme-dark .cm-header:not(.cm-formatting-header)::after,
+  .theme-dark h1::after,
+  .theme-dark h2::after,
+  .theme-dark h3::after,
+  .theme-dark h4::after,
+  .theme-dark h5::after,
+  .theme-dark h6::after {
+    text-shadow: 1px 2px 5px rgb(219, 127, 127);
+  } */
+
+  /* h1的线 */
+  .HyperMD-header-1,
+  .markdown-preview-view h1 {
+    padding-bottom: 0px;
+    border-bottom: 5px solid rgba(155, 168, 231, 0.4) !important;
+    margin-top: 30px;
+  }
+  /* h2的线 */
+  .HyperMD-header-2:not(.cm-formatting-header),
+  .markdown-preview-view h2 {
+    padding-bottom: 0px;
+    border-bottom: 2.5px solid rgba(122, 136, 207, 0.25) !important;
+  }
+  
+  .HyperMD-header-1:not(.cm-formatting-header)::after,
+  h1::after {
+    content: " H1";
+    color: #d8d5cf;
+    font-size: 24px;
+  }
+  .HyperMD-header-2:not(.cm-formatting-header)::after,
+  h2::after {
+    content: " H2";
+    color: #d8d5cf;
+    font-size: 20px;
+  }
+  .HyperMD-header-3:not(.cm-formatting-header)::after,
+  h3::after {
+    content: " H3";
+    color: #d8d5cf;
+    font-size: 16px;
+  }
+  .HyperMD-header-4:not(.cm-formatting-header)::after,
+  h4::after {
+    content: " H4";
+    color: #d8d5cf;
+    font-size: 12px;
+  }
+  .HyperMD-header-5:not(.cm-formatting-header)::after,
+  h5::after {
+    content: " H5";
+    color: #d8d5cf;
+    font-size: 10px;
+  }
+  .HyperMD-header-6:not(.cm-formatting-header)::after,
+  h6::after {
+    content: " H6";
+    color: #48a8ee;
+    font-size: 8px;
+  }

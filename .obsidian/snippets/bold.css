@@ -1,0 +1,13 @@
+body {
+    --bold-color:rgb(255, 255, 255);
+    --bold-weight:800;
+}
+
+div.cm-line span.cm-strong {
+	color: var(--bold-color) !important;
+	font-weight: var(--bold-weight)!important;
+}
+div p strong {
+	color: var(--bold-color) !important;
+	font-weight: var(--bold-weight)!important;
+}

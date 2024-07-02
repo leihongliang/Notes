@@ -1,0 +1,18 @@
+{
+  "spellcheck": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "foldHeading": false,
+  "foldIndent": true,
+  "autoPairMarkdown": true,
+  "defaultViewMode": "preview",
+  "promptDelete": false,
+  "livePreview": true,
+  "focusNewTab": true,
+  "tabSize": 4,
+  "showFrontmatter": true,
+  "useTab": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "showInlineTitle": true
+}
