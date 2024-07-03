@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/SpringBoot.md",
+                "file": "Java/tmp.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/SpringBoot.md",
+                "file": "Java/tmp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/SpringBoot.md",
+                "file": "Java/tmp.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/SpringBoot.md"
+                "file": "Java/tmp.md"
               }
             }
           }
@@ -205,8 +205,9 @@
   },
   "active": "1915779167af76d0",
   "lastOpenFiles": [
-    "Setting/test.md",
     "Java/SpringBoot.md",
+    "Java/tmp.md",
+    "Setting/test.md",
     "Java",
     "system_architect.md",
     "test.md",
@@ -235,7 +236,6 @@
     "Hive.md",
     "智力.md",
     "HR.md",
-    "BIGDATA面试题.md",
     "Interview/bak/lin_sk",
     "upload/202307112101811-1689080486582-1.png",
     "未命名.canvas",
