@@ -1,3 +1,4 @@
+"""
 /**
  * 监控rabbitmq并推送WS信息给特定用户
  * @param message 带推送信息
@@ -23,15 +24,11 @@ public void singleResultWSConsumer(Message message, @Header(AmqpHeaders.DELIVERY
     try {
         String exeInfoTemp = wsSingleResultDTO.getExeInfo();
         if (CollectionUtils.isEmpty(SESSIONS.get(exeInfoTemp))) {
-            if (retryCount >= 2) { // 第三次重试时记录日志
-                throw new Exception(exeInfoTemp + "WS信息推送失败，重试3次后将被删除");
-            } else {
-                throw new Exception(); // 前两次重试不记录详细信息
-            }
+            throw new Exception(exeInfoTemp + "WS信息推送失败，重试3次后将被删除");
         }
     } catch (Exception e) {
-        if (retryCount >= 2) { // 第三次重试时记录日志
-            logger.error(exeInfoTemp + "WS信息推送失败，重试3次后将被删除");
+        if (retryCount >= 3) {
+            logger.error(e.getMessage());
         }
         action = Action.REJECT;
     } finally {
@@ -40,3 +37,4 @@ public void singleResultWSConsumer(Message message, @Header(AmqpHeaders.DELIVERY
         }
     }
 }
+"""
