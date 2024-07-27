@@ -1,1 +1,111 @@
-GAJWL09BT5RSXDR-eyJsaWNlbnNlSWQiOiJHQUpXTDA5QlQ1UlNYRFIiLCJsaWNlbnNlZU5hbWUiOiJtZW5vcmFoIHBhcmFwZXQiLCJsaWNlbnNlZVR5cGUiOiJQRVJTT05BTCIsImFzc2lnbmVlTmFtZSI6IiIsImFzc2lnbmVlRW1haWwiOiIiLCJsaWNlbnNlUmVzdHJpY3Rpb24iOiIiLCJjaGVja0NvbmN1cnJlbnRVc2UiOmZhbHNlLCJwcm9kdWN0cyI6W3siY29kZSI6IlBDV01QIiwiZmFsbGJhY2tEYXRlIjoiMjAyNi0wOS0xNCIsInBhaWRVcFRvIjoiMjAyNi0wOS0xNCIsImV4dGVuZGVkIjp0cnVlfSx7ImNvZGUiOiJQQyIsImZhbGxiYWNrRGF0ZSI6IjIwMjYtMDktMTQiLCJwYWlkVXBUbyI6IjIwMjYtMDktMTQiLCJleHRlbmRlZCI6ZmFsc2V9LHsiY29kZSI6IlBTSSIsImZhbGxiYWNrRGF0ZSI6IjIwMjYtMDktMTQiLCJwYWlkVXBUbyI6IjIwMjYtMDktMTQiLCJleHRlbmRlZCI6dHJ1ZX1dLCJtZXRhZGF0YSI6IjAyMjAyNDA3MDJQU0FYMDAwMDA1WCIsImhhc2giOiIxMjM0NTY3OC8wLTQ2MTc4NjQwOSIsImdyYWNlUGVyaW9kRGF5cyI6NywiYXV0b1Byb2xvbmdhdGVkIjpmYWxzZSwiaXNBdXRvUHJvbG9uZ2F0ZWQiOmZhbHNlLCJ0cmlhbCI6ZmFsc2UsImFpQWxsb3dlZCI6dHJ1ZX0=-UeOCCiS72PGvOIS9go0yIhDFVmPBvbKM56D9w0adVaGcYLtC7YxNr/5MQ/3+Mr05tQQAhMz12vBTb9sjJAXBo+HBzCv1o9IFZnJK2rf3pCXl83ulriBUQ6M0H6GUUy+Mc1fl0EGWquoNExZMujCkReWoeabxwwKPNCvHqHqkW1rU/+cwiVKjVfbIgQW9aChIwyYwexzSlM0TlHvQGfncEzI0+uYNxjRQUjemLlGJooYD0ycSMMTyTvM95QHi25DZjmQRkdzIhDA2l4uPp+C+XEAIdIST2rjEPolvJGcVu7P/DI77LDDqZwLtD8mFXh9lFqMEw9titvy4mYFlYp/xaw==-MIIETDCCAjSgAwIBAgIBDTANBgkqhkiG9w0BAQsFADAYMRYwFAYDVQQDDA1KZXRQcm9maWxlIENBMB4XDTIwMTAxOTA5MDU1M1oXDTIyMTAyMTA5MDU1M1owHzEdMBsGA1UEAwwUcHJvZDJ5LWZyb20tMjAyMDEwMTkwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCUlaUFc1wf+CfY9wzFWEL2euKQ5nswqb57V8QZG7d7RoR6rwYUIXseTOAFq210oMEe++LCjzKDuqwDfsyhgDNTgZBPAaC4vUU2oy+XR+Fq8nBixWIsH668HeOnRK6RRhsr0rJzRB95aZ3EAPzBuQ2qPaNGm17pAX0Rd6MPRgjp75IWwI9eA6aMEdPQEVN7uyOtM5zSsjoj79Lbu1fjShOnQZuJcsV8tqnayeFkNzv2LTOlofU/Tbx502Ro073gGjoeRzNvrynAP03pL486P3KCAyiNPhDs2z8/COMrxRlZW5mfzo0xsK0dQGNH3UoG/9RVwHG4eS8LFpMTR9oetHZBAgMBAAGjgZkwgZYwCQYDVR0TBAIwADAdBgNVHQ4EFgQUJNoRIpb1hUHAk0foMSNM9MCEAv8wSAYDVR0jBEEwP4AUo562SGdCEjZBvW3gubSgUouX8bOhHKQaMBgxFjAUBgNVBAMMDUpldFByb2ZpbGUgQ0GCCQDSbLGDsoN54TATBgNVHSUEDDAKBggrBgEFBQcDATALBgNVHQ8EBAMCBaAwDQYJKoZIhvcNAQELBQADggIBABKaDfYJk51mtYwUFK8xqhiZaYPd30TlmCmSAaGJ0eBpvkVeqA2jGYhAQRqFiAlFC63JKvWvRZO1iRuWCEfUMkdqQ9VQPXziE/BlsOIgrL6RlJfuFcEZ8TK3syIfIGQZNCxYhLLUuet2HE6LJYPQ5c0jH4kDooRpcVZ4rBxNwddpctUO2te9UU5/FjhioZQsPvd92qOTsV+8Cyl2fvNhNKD1Uu9ff5AkVIQn4JU23ozdB/R5oUlebwaTE6WZNBs+TA/qPj+5/we9NH71WRB0hqUoLI2AKKyiPw++FtN4Su1vsdDlrAzDj9ILjpjJKA1ImuVcG329/WTYIKysZ1CWK3zATg9BeCUPAV1pQy8ToXOq+RSYen6winZ2OO93eyHv2Iw5kbn1dqfBw1BuTE29V2FJKicJSu8iEOpfoafwJISXmz1wnnWL3V/0NxTulfWsXugOoLfv0ZIBP1xH9kmf22jjQ2JiHhQZP7ZDsreRrOeIQ/c4yR8IQvMLfC0WKQqrHu5ZzXTH4NO3CwGWSlTY74kE91zXB5mwWAx1jig+UXYc2w4RkVhy0//lOmVya/PEepuuTTI4+UJwC7qbVlh5zfhj8oTNUXgN0AOc+Q0/WFPl1aw5VV/VrO8FCoB15lFVlpKaQ1Yh+DVU8ke+rt9Th0BCHXe0uZOEmH0nOnH/0onD
+{
+  "success": true,
+  "msg": "",
+  "data": {
+    "page": 1,
+    "size": 10,
+    "total": 170,
+    "data": [
+      {
+        "id": "RzmF6JABbwgqoJASFehG",
+        "timestamp": 1721887954246,
+        "taskId": "e1b8b92e-4a4c-11ef-9c2c-0e86542862fe",
+        "projectType": "tod",
+        "scriptId": null,
+        "msg": "当前不需要更新, version: 0.2.14\n",
+        "datetime": "2024-07-25T14:12:34.246",
+        "tag": null
+      },
+      {
+        "id": "SzmF6JABbwgqoJASFepc",
+        "timestamp": 1721887954267,
+        "taskId": "e1b8b92e-4a4c-11ef-9c2c-0e86542862fe",
+        "projectType": "tod",
+        "scriptId": null,
+        "msg": "当前存在requirements.txt, 更新依赖\n",
+        "datetime": "2024-07-25T14:12:34.267",
+        "tag": null
+      },
+      {
+        "id": "1s2F6JABzLA6PowDG7IQ",
+        "timestamp": 1721887955722,
+        "taskId": "e1b8b92e-4a4c-11ef-9c2c-0e86542862fe",
+        "projectType": "tod",
+        "scriptId": null,
+        "msg": "Looking in indexes: http://hikpi.hiktest.com/root/hikvision/+simple/\n",
+        "datetime": "2024-07-25T14:12:35.722",
+        "tag": null
+      },
+      {
+        "id": "382F6JABzLA6PowDG7Ih",
+        "timestamp": 1721887955744,
+        "taskId": "e1b8b92e-4a4c-11ef-9c2c-0e86542862fe",
+        "projectType": "tod",
+        "scriptId": null,
+        "msg": "Requirement already satisfied: setuptools==57.5.0 in c:\\execserver\\server\\venv\\lib\\site-packages (from -r C:\\execServer\\server\\executor_script\\tod\\requirements.txt (line 1)) (57.5.0)\n",
+        "datetime": "2024-07-25T14:12:35.744",
+        "tag": null
+      },
+      {
+        "id": "ROGF6JABy9baWuFvG8Ur",
+        "timestamp": 1721887955754,
+        "taskId": "e1b8b92e-4a4c-11ef-9c2c-0e86542862fe",
+        "projectType": "tod",
+        "scriptId": null,
+        "msg": "Requirement already satisfied: appdirs==1.4.4 in c:\\execserver\\server\\venv\\lib\\site-packages (from -r C:\\execServer\\server\\executor_script\\tod\\requirements.txt (line 2)) (1.4.4)\n",
+        "datetime": "2024-07-25T14:12:35.754",
+        "tag": null
+      },
+      {
+        "id": "SuGF6JABy9baWuFvG8U7",
+        "timestamp": 1721887955771,
+        "taskId": "e1b8b92e-4a4c-11ef-9c2c-0e86542862fe",
+        "projectType": "tod",
+        "scriptId": null,
+        "msg": "Requirement already satisfied: distlib==0.3.8 in c:\\execserver\\server\\venv\\lib\\site-packages (from -r C:\\execServer\\server\\executor_script\\tod\\requirements.txt (line 3)) (0.3.8)\n",
+        "datetime": "2024-07-25T14:12:35.771",
+        "tag": null
+      },
+      {
+        "id": "NzmF6JABbwgqoJASG_dP",
+        "timestamp": 1721887955790,
+        "taskId": "e1b8b92e-4a4c-11ef-9c2c-0e86542862fe",
+        "projectType": "tod",
+        "scriptId": null,
+        "msg": "Requirement already satisfied: filelock==3.0.12 in c:\\execserver\\server\\venv\\lib\\site-packages (from -r C:\\execServer\\server\\executor_script\\tod\\requirements.txt (line 4)) (3.0.12)\n",
+        "datetime": "2024-07-25T14:12:35.79",
+        "tag": null
+      },
+      {
+        "id": "YOGF6JABy9baWuFvG8Vj",
+        "timestamp": 1721887955811,
+        "taskId": "e1b8b92e-4a4c-11ef-9c2c-0e86542862fe",
+        "projectType": "tod",
+        "scriptId": null,
+        "msg": "Requirement already satisfied: six==1.16.0 in c:\\execserver\\server\\venv\\lib\\site-packages (from -r C:\\execServer\\server\\executor_script\\tod\\requirements.txt (line 5)) (1.16.0)\n",
+        "datetime": "2024-07-25T14:12:35.811",
+        "tag": null
+      },
+      {
+        "id": "ZeGF6JABy9baWuFvG8V3",
+        "timestamp": 1721887955830,
+        "taskId": "e1b8b92e-4a4c-11ef-9c2c-0e86542862fe",
+        "projectType": "tod",
+        "scriptId": null,
+        "msg": "Requirement already satisfied: importlib-metadata==0.17 in c:\\execserver\\server\\venv\\lib\\site-packages (from -r C:\\execServer\\server\\executor_script\\tod\\requirements.txt (line 6)) (0.17)\n",
+        "datetime": "2024-07-25T14:12:35.83",
+        "tag": null
+      },
+      {
+        "id": "RjmF6JABbwgqoJASG_eK",
+        "timestamp": 1721887955850,
+        "taskId": "e1b8b92e-4a4c-11ef-9c2c-0e86542862fe",
+        "projectType": "tod",
+        "scriptId": null,
+        "msg": "Requirement already satisfied: zipp==3.8.0 in c:\\execserver\\server\\venv\\lib\\site-packages (from -r C:\\execServer\\server\\executor_script\\tod\\requirements.txt (line 7)) (3.8.0)\n",
+        "datetime": "2024-07-25T14:12:35.85",
+        "tag": null
+      }
+    ]
+  }
+}
